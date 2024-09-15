@@ -55,16 +55,3 @@ resetBtn.addEventListener('click', function() {
 
 
 
-// let timer = 0;
-
-// let interval; 
-
-// setTimeout(() => {
-//     intervall = setInterval(() => {
-//         console.log(++timer);
-//     }, 1000);
-// }, 10000);
-
-// const clearTimer = () => {
-//     clearInterval(interval);
-// }
